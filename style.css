@@ -73,6 +73,7 @@
     color: inherit;
     cursor: pointer;
     transition: all 0.3s;
+
   }
   
   .login__btn:hover,
@@ -94,8 +95,9 @@
     gap: 2rem;
   
     /* NOTE This creates the fade in/out anumation */
-    opacity: 0;
+    opacity: 1;
     transition: all 1s;
+    
   }
   
   .balance {

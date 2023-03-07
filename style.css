@@ -73,6 +73,7 @@
     color: inherit;
     cursor: pointer;
     transition: all 0.3s;
+    
   }
   
   .login__btn:hover,
